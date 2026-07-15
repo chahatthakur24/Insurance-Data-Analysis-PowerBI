@@ -34,7 +34,7 @@ Insurance companies generate large volumes of policy and claims data. This dashb
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/Dashboard_Page1.png)
+![Dashboard](screenshots/Dashboard_Page1.png)
 
 ## Skills Demonstrated
 
